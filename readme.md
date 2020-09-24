@@ -1,0 +1,1 @@
+Funcion Lambda que conecta con apis externas mediante cola sqs y actualiza base de datos.
