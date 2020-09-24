@@ -1,0 +1,25 @@
+{
+  "name": "sacoasync",
+  "version": "1.0.0",
+  "description": "Sincornizacion de datos de tarjetas de sacoa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waltermoorlag/socoasync.git"
+  },
+  "author": "Mooralg Walter.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waltermoorlag/socoasync/issues"
+  },
+  "homepage": "https://github.com/waltermoorlag/socoasync#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "sqlite3": "^5.0.0"
+  }
+}
