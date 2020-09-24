@@ -17,7 +17,6 @@ async function getToken(data_tpi) {
                 computerId: 1
             },
         );
-        // console.log(response.data);
         return response.data;
     } catch (error) {
         return error;
@@ -34,7 +33,6 @@ async function getDataCars(data_tpi, listCard, token) {
                 token: token
             }
         );
-        // console.log(response.data);
         return response.data;
     } catch (error) {
         return error;
